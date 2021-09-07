@@ -12,3 +12,6 @@ Using R studio, I have deployed linear regression model to achieve this. AFter d
 5. One can extend their life span by adopting a healthy lifestyle, having proper body is to mass ratio, proper education, and getting vaccinated on time for each disease
 6. Average life expectancy of people over the years in different countries is 69 yrs which is good but can be better by adopting healthy habits
 7. Some parameters like pollution and environmental index are missing in the data but can be included to get more insight into the factors affecting life expectancy
+
+
+LINK FOR THE PRESENTATION VIDEO - https://drive.google.com/file/d/1HjtOv9UohEimFme8d251mj9B2Sk4xmB4/view?usp=sharing
